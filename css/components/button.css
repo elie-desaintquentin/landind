@@ -1,0 +1,33 @@
+a {
+	text-decoration: none;
+	color: #EA582B
+  }
+
+a:hover {
+	color: #EA742B
+ }
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline  li {
+  display: inline;
+  padding: 10px;
+}
+
+.list-inline i {
+  font-size: 50px;
+}
+
+.btn-blue {
+  background-color: #EA582B;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.btn-blue:hover {
+  background-color: #EA742B;
+  color: white;
